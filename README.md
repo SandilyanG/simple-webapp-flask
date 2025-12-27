@@ -13,6 +13,7 @@ This is used in the demonstration of the development of Ansible Playbooks.
   
   Python and its dependencies
   ```bash
+  apt-get update
   apt-get install -y python3 python3-setuptools python3-dev build-essential python3-pip default-libmysqlclient-dev
   ```
    
